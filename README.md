@@ -1,1 +1,3 @@
 # kup-capstone
+
+CHECK MASTER BRANCH FOR ALL FOLDERS
